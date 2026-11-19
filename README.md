@@ -115,3 +115,9 @@ The backend build script installs Python dependencies, collects static files and
 - Run the backend and frontend checks locally, exercise the customer and seller flows, and capture screenshots of the finished UI.
 - Deploy to your own Render and Vercel projects, then add the live links and demo account instructions here. Do not commit passwords, keys or provider secrets.
 - Keep Git commits focused as each milestone is completed and open pull requests from your own repository workflow.
+
+## Deployment Status
+
+- Backend on Render: Pending
+- Frontend on Vercel: Pending
+- Live end-to-end verification: Pending
