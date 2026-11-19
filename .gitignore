@@ -23,6 +23,10 @@ dist/
 backend/media/
 staticfiles/
 
+# Local dashboard screenshots may show account and order details
+docs/screenshots/storeadmindashboard.png
+docs/screenshots/storesellerdashboard.png
+
 # Local tooling, logs and credentials
 .DS_Store
 *.log

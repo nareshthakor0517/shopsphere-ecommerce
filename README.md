@@ -46,6 +46,20 @@ models, serializers and domain views.
 - Customer order history, sales-person orders containing their products and admin sales summaries.
 - Separate React components, responsive layouts, and loading, empty and error states.
 
+## Screenshots
+
+### Storefront
+
+![ShopSphere storefront home page](docs/screenshots/storehomepage.png)
+
+### Product catalog and filters
+
+![ShopSphere shop page with product catalog and filters](docs/screenshots/storeshoppage.png)
+
+### Product details
+
+![ShopSphere product details page](docs/screenshots/storeproduct-detail.png)
+
 ## Run locally
 
 ### Backend
