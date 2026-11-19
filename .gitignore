@@ -1,0 +1,30 @@
+.env
+.env.*
+!.env.example
+
+# Local Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local databases and database backups
+*.sqlite3
+*.sqlite3-*
+*.db
+*.sql
+
+# Frontend dependencies and build output
+node_modules/
+dist/
+
+# Django generated files and user uploads. Uploads may contain seller KYC
+# documents (PAN, bank proof, address proof, GST certificate, profile photo).
+backend/media/
+staticfiles/
+
+# Local tooling, logs and credentials
+.DS_Store
+*.log
+*.pem
+*.key
